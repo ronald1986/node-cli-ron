@@ -1,0 +1,26 @@
+{
+  "name": "node-cli-demo",
+  "version": "1.0.0",
+  "description": "node-clie-demo",
+  "main": "index.js",
+  "preferGlobal": "true",
+	"bin": {
+		"stu": "index.js"
+	}
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronald1986/node-cli-ron.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "ronald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronald1986/node-cli-ron/issues"
+  },
+  "homepage": "https://github.com/ronald1986/node-cli-ron#readme"
+}
